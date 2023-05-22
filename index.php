@@ -52,7 +52,6 @@ function send()
     <table border="1" align="center" cellpadding="10" >
         <tr>
             <td background="images/bg-3.jpg" colspan="2" height="150" align="right">
-                <img src="images/logo.png" height="180" width="180" align="left">
                 <font size="5" color="Maroon"><h1 class="shadowtext">Сайт web-студії "Web-DECO"</h1></font>
             </td>
             </tr>

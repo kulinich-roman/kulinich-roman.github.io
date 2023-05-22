@@ -131,7 +131,7 @@ function send()
                             echo '</tr>';  
                     }
                 ?> 
-                </table>';              
+                </table>;              
             </td>
         </tr>
         <tr>
